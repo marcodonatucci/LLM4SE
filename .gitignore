@@ -4,7 +4,6 @@ hf_token.txt
 model_answers.json
 augmented_model.onnx
 static_quantized_model
-lab02
 lab03
 lab04
 lab05
@@ -13,4 +12,3 @@ lab07
 lab08
 lab09
 lab10
-/Users/marcodonatucci/Desktop/politoInformatica/LLM4SE/llm/lab01/solution.ipynb
