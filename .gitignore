@@ -4,8 +4,7 @@ hf_token.txt
 model_answers.json
 augmented_model.onnx
 static_quantized_model
-lab03
-lab04
+
 lab05
 lab06
 lab07
